@@ -1,4 +1,4 @@
-#CHAOS - Combined (CT-MR) Healthy Abdominal Organ Segmentation
+# CHAOS - Combined (CT-MR) Healthy Abdominal Organ Segmentation
 
 Language: Python
 
